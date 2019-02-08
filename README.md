@@ -28,6 +28,10 @@ http://localhost:8080
 
 _You can change port `8080` to whatever you want but make sure you do it in both the `docker run` command and the URL you visit in your web browser._
 
+## Notes
+
+Currently this Dockerfile is hardcoded to fetch flight data for January, 2019 and February, 2019. It will be updated shortly to fetch all the available flight data.
+
 ## See also
 
 ### SFO Museum
